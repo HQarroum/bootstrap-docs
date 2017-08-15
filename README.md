@@ -30,7 +30,9 @@ bower install --save bootstrap-docs
 
 ##### Using unpkg.com
 
+```bash
 https://unpkg.com/bootstrap-docs@1.0.0/assets/css/<version>/docs.css
+```
 
 ## Credits
 
