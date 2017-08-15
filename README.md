@@ -10,6 +10,10 @@
 
 > This repository exposes the extracted `docs.css` stylesheet from the Bootstrap documentation for Bootstrap 3 and Bootstrap 4.
 
+## Description
+
+This repository archives the bootstrap website custom stylesheet source code, the versioned versions ranges from the version `3.0.0` of the documentation, up to the `4.0.0` version.
+
 ## Install
 
 ##### Using NPM
@@ -24,3 +28,6 @@ npm install --save bootstrap-docs
 bower install --save bootstrap-docs
 ```
 
+## Credits
+
+All the credits and merit to this repository goes to the Bootstrap team, and all the source code for the documentation can be found on the [Bootstrap website](https://getbootstrap.com).
