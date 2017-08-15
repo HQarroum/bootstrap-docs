@@ -1,7 +1,9 @@
 <h1 align="center">
 	<br>
 	<br>
-	<img width="600" src="assets/images/bootstrap-logo.png" alt="bootstrap">
+	<img width="300" src="assets/images/bootstrap-logo.png" alt="bootstrap">
+	<br>
+	<br>
 	<br>
 	<br>
 </h1>
