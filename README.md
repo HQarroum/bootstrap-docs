@@ -28,6 +28,10 @@ npm install --save bootstrap-docs
 bower install --save bootstrap-docs
 ```
 
+##### Using unpkg.com
+
+https://unpkg.com/bootstrap-docs@1.0.0/assets/css/<version>/docs.css
+
 ## Credits
 
 All the credits and merit to this repository goes to the Bootstrap team, and all the source code for the documentation can be found on the [Bootstrap website](https://getbootstrap.com).
