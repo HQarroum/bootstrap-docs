@@ -1,0 +1,18 @@
+{
+  "name": "bootstrap-docs",
+  "version": "1.0.0",
+  "description": "The docs.css stylesheet from the Bootstrap documentation.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HQarroum/bootstrap-docs.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "docs"
+  ],
+  "author": "Halim Qarroum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HQarroum/bootstrap-docs/issues"
+  }
+}
