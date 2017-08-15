@@ -12,6 +12,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/HQarroum/bootstrap-docs.svg)](https://greenkeeper.io/)
+
 ##### Using NPM
 
 ```bash
